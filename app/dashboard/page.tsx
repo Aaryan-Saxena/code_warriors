@@ -113,7 +113,7 @@ export default function DashboardPage() {
                     <div className="flex-1 flex justify-center">
                       <div className="relative w-40 h-40 rounded-full bg-gradient-to-br from-green-100 to-green-200 flex items-center justify-center shadow-md">
                         <img
-                          src="/placeholder.svg?height=160&width=160"
+                          src="/placeholder-user.jpg?height=160&width=160"
                           alt="Character avatar"
                           className="rounded-full"
                         />
